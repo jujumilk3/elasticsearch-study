@@ -7,3 +7,5 @@ So, This version is proper for study.
 ```
 docker run -p 9200:9200 -p 9300:9300 -e "discovery.type=single-node" docker.elastic.co/elasticsearch/elasticsearch:7.15.1
 ```
+
+Supporting versions: https://hub.docker.com/_/elasticsearch/tags?page=1
